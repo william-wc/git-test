@@ -3,9 +3,15 @@
 	<head>
 	<meta charset="UTF-8">
 		<style>
-			table, th, td {
-				border: 1px solid black;
-			}
+                    * {
+                        border: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                    }
+                    table, th, td {
+                            border: 1px solid black;
+                            border-collapse: collapse;
+                    }
 		</style>
 	</head>
 	<body>
